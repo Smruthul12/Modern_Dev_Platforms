@@ -1,4 +1,4 @@
 # Modern_Dev_Platforms
-hey,
-Learning to use branches in github
-let save this changes => commit changes
+hey, #done editing with readme-edits and this is version 2.o
+Learning to use branches in github , hahaha
+let save this changes => commit changes ,hehehe
